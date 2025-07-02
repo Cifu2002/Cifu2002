@@ -209,9 +209,9 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
   <a href="https://www.linkedin.com/in/esteban-cifuentes-87336136a/?profileId=ACoAAFuIdZcB-1M9oUmSvwkYeq75-RLe5nD920c" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:estebancifu88@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/email-estebancifu88@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" />
 </p>
 
 ---
