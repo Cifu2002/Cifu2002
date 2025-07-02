@@ -112,7 +112,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
       Es una plataforma web integral para la gestión de cervecerías que incluye una interfaz pública para clientes y una interfaz administrativa segura para operaciones CRUD.
     </td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/></td>
-    <td><a href="https://github.com/Cifu2002/ProyectoGestion6toSemestre">Ver repositorio</a></td>
+    <td><a href="https://github.com/ChrisitanLP/ProyectoGestion6toSemestre">Ver repositorio</a></td>
   </tr>
   <tr>
     <td>Sistema de Gestión de Aprendizaje (LMS)</td>
@@ -120,7 +120,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
       Es una plataforma orientada a facilitar el proceso de enseñanza y aprendizaje dentro de la comunidad educativa. 
     </td>
     <td><img src="https://skillicons.dev/icons?i=html,bootstrap,js,php,mysql"/></td>
-    <td><a href="https://github.com/Cifu2002/ProyectoFinalManejo">Ver repositorio</a></td>
+    <td><a href="https://github.com/ChrisitanLP/ProyectoFinalManejo">Ver repositorio</a></td>
   </tr>
 </table>
 
