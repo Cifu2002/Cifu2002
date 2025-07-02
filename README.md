@@ -152,7 +152,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
       <strong>Fundamentos de Python 2</strong><br/>
       Cisco Networking Academy – <em>jun. 2025</em><br/>
       Aptitudes: Python · Programación orientada a objetos (POO) · Estructuras de datos<br/>
-      <a href="./certificados/Certificado_Cisco_Python_2.pdf">📄 Ver certificado</a>
+      <a href="./Archivos/Certificado_PY.pdf">📄 Ver certificado</a>
     </td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
       <strong>Curso de introducción al desarrollo web: HTML y CSS (1/2)</strong><br/>
       Google Actívate – <em>may. 2025</em><br/>
       Aptitudes: HTML · Diseño web<br/>
-      <a href="./certificados/Certificado_HTML_CSS_Google.pdf">📄 Ver certificado</a>
+      <a href="https://skillshop.exceedlms.com/student/award/E7LHFjH86gCgkrJXWWiYxRnm">📄 Ver certificado</a>
     </td>
   </tr>
   <tr>
@@ -173,7 +173,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
     <td>
       <strong>CSEI 2022 IV – Conference On Computer Science, Electronics And Industrial Engineering</strong><br/>
       Universidad Técnica de Ambato – <em>nov. 2022</em><br/>
-      <a href="./certificados/Certificado_CSEI_2022.pdf">📄 Ver certificado</a>
+      <a href="./Archivos/Curso_completo.pdf">📄 Ver certificado</a>
     </td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
       <strong>Ensamblaje y mantenimiento de computadores</strong><br/>
       Universidad Técnica de Ambato – <em>jun. 2022</em><br/>
       Aptitudes: Ensamblaje de computadoras · Diagnóstico de fallas · Mantenimiento preventivo y correctivo · Instalación de sistemas operativos<br/>
-      <a href="./certificados/Certificado_Ensamblaje_Mantenimiento.pdf">📄 Ver certificado</a>
+      <a href="./Archivos/Certificado_ensamblaje.pdf">📄 Ver certificado</a>
     </td>
   </tr>
 </table>
@@ -193,7 +193,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 ## 📄 Descargar CV
 
 <p align="center">
-  <a href="./docs/CV_Esteban.pdf" target="_blank">
+  <a href="./Archivos/CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV PDF" />
   </a>
 </p>
