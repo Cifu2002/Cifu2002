@@ -206,10 +206,10 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
   <a href="https://esteban-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio Web" />
   </a>
-  <a href="[https://www.linkedin.com/in/esteban-dev](https://www.linkedin.com/in/esteban-cifuentes-87336136a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/esteban-cifuentes-87336136a/?profileId=ACoAAFuIdZcB-1M9oUmSvwkYeq75-RLe5nD920c" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="estebancifu88@gmail.com">
+  <a href="mailto:estebancifu88@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
