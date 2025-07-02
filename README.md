@@ -3,104 +3,231 @@
 </p>
 
 <h1 align="center">Soy Esteban Cifuentes, tu Ingeniero de Software de confianza</h1>
-<p align="center">Bienvenido/a a mi portafolio de desarrollo</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy ingeniero de software especializado en backend con interés en el desarrollo de aplicaciones web, automatización de procesos y bases de datos. Me apasiona crear soluciones útiles usando tecnologías como .NET, Blazor, C# y SQL Server.
+Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crear soluciones que hagan la vida más fácil a las personas. He trabajado con varios lenguajes como PHP, JavaScript, C#, Java y Python. Me considero una persona curiosa y con muchas ganas de aprender, siempre estoy buscando nuevos retos que me permitan crecer profesional y personalmente. Valoro mucho el trabajo en equipo, la comunicación y el aprendizaje compartido. Me adapto con rapidez, me gusta escuchar ideas, proponer soluciones y contribuir a un ambiente colaborativo.
 
 ---
 
 ## 🛠 Tecnologías
 
 ### 🧑‍💻 Lenguajes de programación
+<div align="center">
 
+### 🧑‍💻 Lenguajes de programación
+
+#### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js" alt="Lenguajes" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Lenguajes Frontend" />
 </p>
 
-### ⚙️ Frameworks y herramientas
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,php,java" alt="Lenguajes Backend" />
+</p>
+
+---
+
+### ⚙️ Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,blazor,visualstudio,vscode" alt="Frameworks y herramientas" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,angular,bootstrap" alt="Frameworks" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+</p>
+
+---
+
+### 🛠️ Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github" alt="Herramientas" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
+</p>
+
+---
 
 ### 🗄️ Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,oracle" alt="Bases de datos" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+---
+
+### 🎨 Herramientas de diseño
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd" alt="Figma" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Balsamiq-222222?style=for-the-badge&logo=balsamiq&logoColor=white" alt="Balsamiq" />
+</p>
+
+---
+
+### 🌐 Servidores web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Servidores web" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+</p>
+</div>
+
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### 🔧 Automatización de procesos de prácticas de servicio comunitario – UTA  
-**Tecnologías:** Blazor, .NET C#, SQL Server  
-Sistema web para la gestión de prácticas, incluye etapas, validaciones, y generación de reportes.  
-🔗 [Ver repositorio](https://github.com/tuusuario/repositorio1)
+<table>
+  <tr>
+    <th>📌 Nombre</th>
+    <th>📝 Descripción</th>
+    <th>🧪 Tecnologías</th>
+    <th>🔗 Repositorio</th>
+  </tr>
+  <tr>
+    <td>Acroware</td>
+    <td>
+    Es una plataforma integral de gestión de activos que permite a las organizaciones administrar eficientemente diferentes activos. El sistema cuenta con funcionalidades avanzadas de gestión de usuarios, autenticación segura y notificaciones por correo electrónico automatizadas.
+    </td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/></td>
+    <td><a href="https://github.com/Yachitzu/Acroware">Ver repositorio</a></td>
+  </tr>
+  <tr>
+    <td>Cervecería INTI</td>
+    <td>
+      Es una plataforma web integral para la gestión de cervecerías que incluye una interfaz pública para clientes y una interfaz administrativa segura para operaciones CRUD.
+    </td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/></td>
+    <td><a href="https://github.com/Cifu2002/ProyectoGestion6toSemestre">Ver repositorio</a></td>
+  </tr>
+  <tr>
+    <td>Sistema de Gestión de Aprendizaje (LMS)</td>
+    <td>
+      Es una plataforma orientada a facilitar el proceso de enseñanza y aprendizaje dentro de la comunidad educativa. 
+    </td>
+    <td><img src="https://skillicons.dev/icons?i=html,bootstrap,js,php,mysql"/></td>
+    <td><a href="https://github.com/Cifu2002/ProyectoFinalManejo">Ver repositorio</a></td>
+  </tr>
+</table>
 
 ---
-
-### 🖥️ Gestor de solicitudes de mantenimiento – Departamento de Sistemas  
-**Tecnologías:** .NET, C#, Oracle DB  
-Aplicación web para registrar solicitudes de mantenimiento y generar reportes, con migración de datos desde Excel.  
-🔗 [Ver repositorio](https://github.com/tuusuario/repositorio2)
+## 🎓 Educación
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🧰 Gestor de mantenimiento</h3>
-      <ul>
-        <li>📌 Registro y seguimiento de solicitudes</li>
-        <li>🗃️ Migración desde Excel a Oracle</li>
-        <li>📊 Generación de reportes</li>
-        <li>🔧 .NET, C#, Oracle DB</li>
-      </ul>
-      <a href="https://github.com/tuusuario/repo1">🔗 Ver repositorio</a>
+    <td width="80">
+      <img src="https://tse4.mm.bing.net/th/id/OIP.iylAZKKIjdxm4MG8_rd6xgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="60" alt="UTA logo" />
     </td>
-    <td width="50%">
-      <h3>🏫 Sistema de prácticas – UTA</h3>
-      <ul>
-        <li>📝 Automatización del flujo de prácticas</li>
-        <li>✅ Validación por etapas</li>
-        <li>📊 Reportes personalizados</li>
-        <li>🌐 Blazor, SQL Server</li>
-      </ul>
-      <a href="https://github.com/tuusuario/repo2">🔗 Ver repositorio</a>
+    <td>
+      <strong>Universidad Técnica de Ambato</strong><br/>
+      Ingeniero en Software<br/>
+      <em>2020 – 2025</em>
     </td>
   </tr>
 </table>
----
-
-## 🎓 Certificaciones y cursos
-
-- 🐍 *Python Essentials 2* – Cisco Networking Academy  
-- 🌐 *HTML y CSS Parte 1* – Google Actívate  
-- 🛠️ *Ensamblaje y mantenimiento de computadores*
 
 ---
-## Estadisticas 
-### 📈 Estadísticas de GitHub (2023–2025)
+## 🧾 Licencias y certificaciones
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&locale=es)
+<table>
+  <tr>
+    <td width="80">
+      <img src="https://tse4.mm.bing.net/th/id/OIP.6_nO6WlcXAdrvHFwAc4LiQHaDd?rs=1&pid=ImgDetMain&o=7&rm=3" width="60" alt="Cisco" />
+    </td>
+    <td>
+      <strong>Fundamentos de Python 2</strong><br/>
+      Cisco Networking Academy – <em>jun. 2025</em><br/>
+      Aptitudes: Python · Programación orientada a objetos (POO) · Estructuras de datos<br/>
+      <a href="./certificados/Certificado_Cisco_Python_2.pdf">📄 Ver certificado</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="60" alt="Google" />
+    </td>
+    <td>
+      <strong>Curso de introducción al desarrollo web: HTML y CSS (1/2)</strong><br/>
+      Google Actívate – <em>may. 2025</em><br/>
+      Aptitudes: HTML · Diseño web<br/>
+      <a href="./certificados/Certificado_HTML_CSS_Google.pdf">📄 Ver certificado</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://tse4.mm.bing.net/th/id/OIP.iylAZKKIjdxm4MG8_rd6xgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="60" alt="UTA" />
+    </td>
+    <td>
+      <strong>CSEI 2022 IV – Conference On Computer Science, Electronics And Industrial Engineering</strong><br/>
+      Universidad Técnica de Ambato – <em>nov. 2022</em><br/>
+      <a href="./certificados/Certificado_CSEI_2022.pdf">📄 Ver certificado</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://tse4.mm.bing.net/th/id/OIP.iylAZKKIjdxm4MG8_rd6xgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="60" alt="UTA" />
+    </td>
+    <td>
+      <strong>Ensamblaje y mantenimiento de computadores</strong><br/>
+      Universidad Técnica de Ambato – <em>jun. 2022</em><br/>
+      Aptitudes: Ensamblaje de computadoras · Diagnóstico de fallas · Mantenimiento preventivo y correctivo · Instalación de sistemas operativos<br/>
+      <a href="./certificados/Certificado_Ensamblaje_Mantenimiento.pdf">📄 Ver certificado</a>
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tuusuario&theme=radical)](https://git.io/streak-stats)
-## 📫 Contacto
+---
+## 📄 Descargar CV
 
-<p>
-  <a href="https://www.linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <a href="./docs/CV_Esteban.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV PDF" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</p>
+
+<hr/>
+
+## 📬 Puedes encontrame en:
+
+<p align="center">
+  <a href="https://esteban-dev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portafolio Web" />
+  </a>
+  <a href="[https://www.linkedin.com/in/esteban-dev](https://www.linkedin.com/in/esteban-cifuentes-87336136a/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="estebancifu88@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-> Este portafolio se actualiza constantemente. ¡Gracias por tu visita!
+## 📊 Estadísticas de GitHub
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cifu2002&theme=2077" width="95%" alt="Resumen de perfil de GitHub"/>
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Cifu2002&show_icons=true&theme=2077&hide_border=true&bg_color=00000000&border_radius=10&rank_icon=github" width="48%" alt="Estadísticas generales de GitHub"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cifu2002&layout=compact&theme=2077&hide_border=true&bg_color=00000000&border_radius=10" width="48%" alt="Lenguajes más usados"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=120&section=footer&animation=twinkling"/>
+
