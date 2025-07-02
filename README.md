@@ -17,8 +17,6 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 ### 🧑‍💻 Lenguajes de programación
 <div align="center">
 
-### 🧑‍💻 Lenguajes de programación
-
 #### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Lenguajes Frontend" />
