@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Portada.png" alt="Portada" width="100%">
+  <img src="Banner Para LinkedIn Desarrollador De Software Moderno Negro.png" alt="Portada" width="100%">
 </p>
 
 <h1 align="center">Soy Esteban Cifuentes, tu Ingeniero de Software de confianza</h1>
