@@ -19,7 +19,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Lenguajes Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Lenguajes Frontend" />
 </p>
 
 #### Backend
@@ -32,10 +32,11 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 ### ⚙️ Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,angular,bootstrap" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,react,angular,nextjs,bootstrap" alt="Frameworks" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
 </p>
 
 ---
@@ -43,10 +44,11 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 ### 🛠️ Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman" alt="Herramientas" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 ---
@@ -54,7 +56,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 ### 🗄️ Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
@@ -81,6 +83,23 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 </p>
 <p>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+</p>
+
+---
+
+### 🔐 Seguridad & Autenticación
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ ORM
+<p>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 </div>
 
