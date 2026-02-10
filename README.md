@@ -44,7 +44,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 ### 🛠️ Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,nodejs,postman" alt="Herramientas" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
@@ -114,6 +114,27 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
     <th>📝 Descripción</th>
     <th>🧪 Tecnologías</th>
     <th>🔗 Repositorio</th>
+  </tr>
+  <tr>
+    <td>A_PSC</td>
+    <td>Aplicativo web desarrollado como proyecto de titulación, orientado a la automatización y centralización de los procesos de prácticas de servicio comunitario de la Universidad Técnica de Ambato. Permite la parametrización de provincias, cantones y parroquias; amplio, específico y detallado; entidades cooperantes, representantes beneficiarios, convenios, dominios, programas y roles de usuario. Gestiona proyectos, controla el flujo de aprobación por etapas, carga de anexos documentales y la generación de reportes po cada etapa del proyecto.
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap" />
+      <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/ASP.NET%20Core%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+    </td>
+    <td>
+      <strong>Privado</strong>
+      <p>
+        Proyecto institucional. Se pueden observar capturas y descripción funcional en mi portafolio.
+        <a href="https://github.com/Yachitzu/Acroware">Ver portafolio</a>
+      </p>
+    </td>
   </tr>
   <tr>
     <td>Acroware</td>
