@@ -32,7 +32,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 ### ⚙️ Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,react,angular,nextjs,bootstrap" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,angular,nextjs,bootstrap" alt="Frameworks" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
@@ -56,7 +56,7 @@ Soy ingeniero de software, me dedico al desarrollo backend y disfruto mucho crea
 ### 🗄️ Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
